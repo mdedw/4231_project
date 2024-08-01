@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 812ef153868b56a4a8cb59a47b16678b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plant1_transform: {fileID: 7362250687781764010, guid: 80c4f0d039255bb4bbd8775d9486e11e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
