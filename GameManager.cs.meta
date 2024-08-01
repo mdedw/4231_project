@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 228a62a0dac596d428ed6691acb24744
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player_transform: {instanceID: 0}
+  - crystalTransform: {instanceID: 0}
+  - enemyPrefab: {fileID: 6154291440050483837, guid: 3515aa5a89fbb2c4e8ffe27919206947, type: 3}
+  - spawnPoint: {fileID: 6217639680396586183, guid: 2116d8d143cb03446b8ef34daf9c152f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
